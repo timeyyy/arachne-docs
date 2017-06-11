@@ -19,7 +19,7 @@ Configurations have a schema. The schema of a configuration is standard (Datomic
 
 ### Applications/Modules
 
-An _application_ refers a piece of software built for a specific purpose, while _modules_ provide more generic, reusable functionality.
+An _application_ refers to a piece of software built for a specific purpose, while _modules_ provide more generick; reusable functionality.
 
 At the technical level, there is no difference between an Arachne application and an Arachne module. Throughout the rest of this documentation, the term "module" will be used. However, this should always be presumed to refer to applications as well unless otherwise noted.
 
