@@ -17,7 +17,7 @@ It intends to exhibit the following qualities:
 Arachne provides a basic command-line project generator tool that you can use to create projects. To install this tool, simply download the shell script, place it somewhere on your system path (`~/bin` is usually good), and `chmod` it to be executable.
 
 ```bash
-URL="https://raw.githubusercontent.com/arachne-framework/arachne-proj-gen/release/arachne.sh"
+URL="https://raw.githubusercontent.com/arachne-framework/arachne-proj-gen/master/arachne.sh
 curl $URL > ~/bin/arachne
 chmod +x ~/bin/arachne
 ```
